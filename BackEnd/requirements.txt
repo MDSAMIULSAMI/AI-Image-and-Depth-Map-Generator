@@ -1,1 +1,1 @@
-pip install fastapi uvicorn pydantic diffusers pillow torch
+pip install fastapi uvicorn pydantic diffusers pillow torch numpy==1.24.1
